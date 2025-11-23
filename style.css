@@ -285,6 +285,7 @@ body {
 @media (max-width: 768px) {
   body{
     background-position: center top;
+    background-size: contain;
   }
     h1 {
     font-size: 1.8rem;
