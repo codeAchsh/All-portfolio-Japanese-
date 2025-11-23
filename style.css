@@ -283,9 +283,12 @@ body {
 }
 
 @media (max-width: 768px) {
+  body{
+    background-position: center top;
+  }
     h1 {
     font-size: 1.8rem;
-    flex-direction: column;   /* タイトル画像と文字を縦並びに */
+    flex-direction: column;   
     gap: 0.5rem;
   }
 
@@ -295,6 +298,7 @@ body {
   }
   .top{
     font-size: 40px;
+    /* background-color: none; */
   }
   .version {
     width: 180px;
