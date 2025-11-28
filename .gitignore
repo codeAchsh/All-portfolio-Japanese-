@@ -1,0 +1,64 @@
+# ===== OS (Windows/macOS) =====
+# Windows system files
+Thumbs.db
+Thumbs.db?
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ===== Editors / IDEs =====
+.vscode/
+.idea/
+*.code-workspace
+
+# ===== Temporary / backups =====
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.old
+
+# ===== Logs / caches =====
+*.log
+.cache/
+*.cache
+
+# ===== Design tools (作業原本は除外) =====
+*.psd
+*.ai
+*.sketch
+*.xd
+*.fig
+*.afdesign
+*.afphoto
+*.indd
+
+# ===== Build outputs (もし導入した場合) =====
+# dist/
+# build/
+# out/
+# .next/
+# .nuxt/
+# .vite/
+
+# ===== Node.js (もし導入した場合) =====
+# node_modules/
+
+# ===== Python (もし導入した場合) =====
+# __pycache__/
+# *.pyc
+# *.pyo
+
+# ===== Ruby / Jekyll (もし導入した場合) =====
+# _site/
+# .sass-cache/
+
+# ===== OS trash folders =====
+.Trashes/
